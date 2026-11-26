@@ -50,6 +50,10 @@ https://www.ui-skills.com/skills
 
 ```bash
 npx ui-skills
+npx ui-skills categories
+npx ui-skills list
+npx ui-skills list --category motion
+npx ui-skills get baseline-ui
 ```
 
 كما يوفر الموقع Registry نصياً عاماً يمكن الرجوع إليه للحصول على أحدث المهارات ومصادر ملفاتها.
