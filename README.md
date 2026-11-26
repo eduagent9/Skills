@@ -9,6 +9,7 @@
 - [أدوات فحص Skills والتحقق الأمني](SKILLS-SECURITY-AUDIT-TOOLS.md)
 - [لائحة التثبيت النهائية — 131 Skill من 14 مصدر](INSTALL-MANIFEST.md)
 - [سكريبت التثبيت الشامل لـTermux](install-all-skills-termux.sh)
+- [حالة جاهزية التثبيت](INSTALL-STATUS.md)
 - [الدفعة 11: Business Analytics وData Quality](VERIFIED-SKILLS-BATCH-11.md)
 - [الدفعة 01: مهارات المنصات](VERIFIED-SKILLS-BATCH-01.md)
 - [الدفعة 02: الهندسة والاختبارات](VERIFIED-SKILLS-BATCH-02.md)
