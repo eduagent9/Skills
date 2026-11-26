@@ -1,86 +1,110 @@
-# UI Skills — Selection Roadmap
+# UI Skills — Verified Selection Roadmap
 
-هاد الملف كيجمع المهارات المرشحة للتثبيت العالمي في Termux. الاختيار مبني على الكتالوج الرسمي، مع مراعاة تطوير تطبيقات Android وواجهات الويب والاختبار.
+هاد اللائحة مبنية على صفحات المهارات الرسمية في UI Skills، وتأكدنا من الاسم والمستودع وأمر التثبيت للعناصر المذكورة أدناه. ما زال خاصنا نراجع توافق كل مهارة مع المشاريع قبل التثبيت النهائي.
 
-> مهم: هادي لائحة انتقاء أولية، ماشي إعلان أن جميع المهارات تثبتات أو أن أوامر تثبيتها تحققات. قبل التثبيت النهائي خاصنا نراجع المصدر والمسار الفعلي لكل Skill.
+## A) أساسية لمعظم مشاريع الواجهات
 
-## 1) الأساسيات العامة — أولوية عالية
+| Skill | الاستعمال |
+|---|---|
+| ui-skills-root | يوجه لاختيار أصغر مجموعة مهارات مناسبة للمهمة |
+| frontend-design | بناء واجهات Frontend مميزة وجاهزة للإنتاج |
+| better-interface | مراجعة شاملة للواجهة: layout وكتابة وألوان وخطوط وإمكانية الوصول |
+| better-ui | صقل التفاصيل البصرية والمكونات والحالات والحركة |
+| better-layout | تنظيم البنية والمحاذاة والتسلسل والتجاوب |
+| better-typography | الخطوط والقراءة والتباعد والهرمية |
+| better-colors | بناء أنظمة ألوان وتباين OKLCH |
+| better-accessibility | التركيز ولوحة المفاتيح وARIA والنماذج وقارئ الشاشة |
+| better-writing | نصوص الأزرار والأخطاء والرسائل وتجربة الكتابة |
+| interface-design | لوحات التحكم وتطبيقات الإدارة وSaaS |
+| ui-ux-pro-max | أنماط وموارد UI/UX وتقنيات متعددة |
 
-| Skill | المجال | علاش نحتاجوها |
-|---|---|---|
-| ui-skills-root | توجيه المهارات | تختار المهارة المناسبة للمهمة بدل تحميل كلشي |
-| frontend-design | تصميم الواجهات | واجهات مميزة ومنظمة بلا شكل قوالب مكررة |
-| better-interface | مراجعة UI | مراجعة شاملة للواجهة والتناسق |
-| better-layout | Layout | تنظيم المسافات والتسلسل البصري |
-| better-typography | Typography | الخطوط والقراءة والهرمية |
-| better-colors | الألوان | الألوان والتباين والـ palettes |
-| better-accessibility | Accessibility | اللمس، التركيز، قارئ الشاشة وإمكانية الوصول |
-| improve-animations | Motion | تحسين الحركة بدون إزعاج أو ثقل |
-| 12-principles-of-animation | Animation | قواعد الحركة الأساسية |
+## B) Android وMobile
 
-## 2) Android وMobile — أولوية عالية
+| Skill | الاستعمال |
+|---|---|
+| mobile-android-design | Material Design 3 وJetpack Compose |
+| android-native-ui | Android Compose أو Views، الوصول، adaptive layout والحالة |
+| mobile-native | جعل Web/PWA يبدو طبيعياً على الهاتف: safe areas واللمس والتمرير |
+| vercel-react-native-skills | ممارسات React Native وExpo والأداء |
+| react-native-design | تصميم شاشات React Native والتنقل وReanimated |
+| react-native-best-practices | تحسين FPS والذاكرة وإعادة التصيير وحجم التطبيق |
+| appllama-app-design-skill | تصميم شاشات Mobile native-feeling باستخدام Expo/React Native |
 
-| Skill | المجال | علاش نحتاجوها |
-|---|---|---|
-| mobile-android-design | Android UI | أنماط Material Design 3 وJetpack Compose |
-| mobile-native | Mobile web/PWA | تحسين تجربة الهاتف: safe areas واللمس والتمرير |
-| react-native-best-practices | React Native | الأداء والذاكرة وإعادة التصيير والأنيميشن |
-| react-native-skills | React Native/Expo | بناء تطبيقات موبايل بأفضل الممارسات |
-| react-native-design | Mobile UI | الشاشات والتنقل والحركة في React Native |
+ملاحظة: مهارات React Native/Expo لا نثبتها إلا إذا كان المشروع فعلاً مبنياً بهذه التقنية. مهارات Android الأصلية مناسبة لمشاريع Compose/Views؛ وmobile-native مناسبة أكثر لتطبيقات الويب/PWA.
 
-ملاحظة: ما غاديش نثبت مهارات React Native إلا إذا كان عندنا مشروع كيستعمل هاد التقنية؛ وجودها هنا للمراجعة والاختيار حسب المشروع.
+## C) Frontend والأداء والاختبار
 
-## 3) Frontend والجودة — أولوية عالية
+| Skill | الاستعمال |
+|---|---|
+| frontend-ui-engineering | هندسة واجهات Frontend |
+| react-doctor | كشف مشاكل React في الأداء والصحة البرمجية |
+| modern-web-guidance | ممارسات Web حديثة مع فحص ثابت للمصدر |
+| web-quality-audit | تدقيق جودة الويب والأداء وإمكانية الوصول |
+| agent-browser | أتمتة المتصفح واختبار الصفحات والتفاعلات |
+| playwright-cli | اختبارات Browser وE2E |
+| audit | تدقيق تقني للواجهة |
+| harden | حالات الخطأ والفراغ والحواف وi18n وتجهيز الإنتاج |
+| optimize | تحسين سرعة الواجهة والأصول والحركة |
+| tdd | منهجية الاختبار قبل/أثناء التطوير |
 
-| Skill | المجال | علاش نحتاجوها |
-|---|---|---|
-| frontend-ui-engineering | Frontend | هندسة واجهات قابلة للصيانة |
-| react-best-practices | React | الأداء وبنية المكونات |
-| react-doctor / improve-react | React QA | كشف مشاكل الأداء والصحة البرمجية |
-| modern-web-guidance | Web platform | الممارسات الحديثة وتقليل layout shift |
-| web-design-guidelines | UI audit | مراجعة الواجهة وفق معايير الويب |
-| web-quality-audit | Quality | تدقيق الأداء وإمكانية الوصول وSEO |
-| vitals | Performance | قياس التحميل والتأخير والتحقق من الإصلاح |
-| viewports | Responsive QA | اختبار المقاسات ونقاط التوقف |
-| agent-browser | Browser testing | أتمتة التصفح واختبار الواجهات |
+## D) التفاعل والأنيميشن
 
-## 4) التفاعل والأنيميشن — أولوية متوسطة
+| Skill | الاستعمال |
+|---|---|
+| interaction-design | Micro-interactions والحركة والانتقالات والتغذية الراجعة |
+| improve-animations | مراجعة أنيميشن المشروع ووضع خطة تحسين |
+| better-motion | تحديد ما يجب أن يتحرك وبأي مدة ومنحنى |
+| accessible-animation | أنيميشن يحترم إعداد تقليل الحركة |
+| micro-interaction | حالات الضغط والتبديل والتنبيهات والحوارات |
+| animate-expo | أنيميشن React Native/Expo |
+| 12-principles-of-animation | مبادئ الحركة الأساسية |
 
-| Skill | المجال | علاش نحتاجوها |
-|---|---|---|
-| interaction-design | Interaction | سلوك عناصر الواجهة وتدفق التفاعل |
-| better-motion | Motion | اختيار الحركة ومدتها وتوقيتها |
-| accessible-animation | Motion accessibility | احترام إعداد تقليل الحركة |
-| micro-interaction | Micro-interactions | حالات الضغط والتبديل والتنبيهات |
-| react-view-transitions | React motion | انتقالات الصفحات والعناصر |
+## E) مهارات موجودة مسبقاً في فهرسنا
 
-## 5) Design systems واحتياجات خاصة — اختيار حسب المشروع
+راجع README.md للمهارات التي جمعناها في الدفعات الأولى والثانية، ومنها Design Lab وBetter UI وFrontend Design وImprove UI وInteraction Design وImpeccable وInterface Design وUI UX Pro Max.
 
-- interface-design
-- impeccable
-- ui-ux-pro-max
-- design-lab
-- better-ui
-- improve-ui
-- improve (shadcn)
-- taste-skill
-- bencium-innovative-ux-designer
+## أوامر التثبيت الموثقة من صفحات UI Skills الرسمية
 
-## قواعد الانتقاء قبل التثبيت
+الأوامر التالية من صفحات المهارات الرسمية؛ لا تنفذها الآن. سنجمع المهارات بعد إنهاء الانتقاء، ونحذف التكرار قبل إعداد سكريبت Termux.
 
-1. نتحقق من الاسم الدقيق والمسار داخل المستودع الأصلي.
-2. نراجع الترخيص وطريقة التثبيت الرسمية.
-3. نكشف المهارات المكررة أو اللي كتغطي نفس الوظيفة.
-4. ما نثبتوش مهارات إطار عمل ما كنستعملوهش إلا عند الحاجة.
-5. نخليو التثبيت العالمي في Termux لمرحلة واحدة بعد اكتمال المراجعة.
-6. من بعد التثبيت نتحققو من اللائحة بأمر npx skills list --global.
+### Android وMobile
 
-## أدوات UI Skills الرسمية
+```bash
+npx skills add https://github.com/wshobson/agents --skill mobile-android-design --global
+npx skills add https://github.com/kemiljk/skills --skill android-native-ui --global
+npx skills add https://github.com/emilkowalski/skills --skill mobile-native --global
+npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-native-skills --global
+npx skills add https://github.com/wshobson/agents --skill react-native-design --global
+npx skills add https://github.com/callstackincubator/agent-skills --skill react-native-best-practices --global
+npx skills add https://github.com/Appllama/appllama-skills --skill appllama-app-design-skill --global
+```
 
-- npx ui-skills
-- npx ui-skills categories
-- npx ui-skills list
-- npx ui-skills list --category motion
-- npx ui-skills get baseline-ui
+### تدقيق واختبار
 
-هاد الأوامر كتستعمل الكتالوج الرسمي للاستكشاف وجلب تعليمات Skill؛ ما خاصناش نخلطو بينها وبين تثبيت Skill عالمياً باستعمال npx skills add ... --global.
+```bash
+npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser --global
+npx skills add https://github.com/vercel-labs/agent-browser --skill modern-web-guidance --global
+npx skills add https://github.com/pbakaus/impeccable --skill audit --global
+npx skills add https://github.com/pbakaus/impeccable --skill harden --global
+npx skills add https://github.com/pbakaus/impeccable --skill optimize --global
+```
+
+## قواعد ما قبل التثبيت
+
+1. التحقق من وجود SKILL.md ومساره في المصدر الأصلي.
+2. التحقق من أن الأمر يقبل تثبيت المهارة بالاسم المحدد.
+3. مراجعة التراخيص وعدم نسخ ملفات أصحاب المهارات إلى مستودعنا.
+4. تجنب المهارات المتكررة أو المرتبطة بإطار غير مستخدم.
+5. التثبيت العالمي دفعة واحدة فقط بعد الموافقة على اللائحة.
+6. التحقق بعد ذلك باستعمال npx skills list --global.
+
+## استكشاف الكتالوج الرسمي
+
+```bash
+npx ui-skills start
+npx ui-skills categories
+npx ui-skills list --category '<category>'
+npx ui-skills get '<skill-slug>'
+```
+
+UI Skills كيوصي بتحميل أصغر مجموعة مناسبة للمهمة، وغالباً مهارة واحدة، وبحد أقصى ثلاث مهارات للمراجعات الواسعة. ماشي ضروري تثبيت 844 مهارة.
