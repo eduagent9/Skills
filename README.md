@@ -12,6 +12,7 @@
 - [الدفعة 04: Python وDocker والأمن](VERIFIED-SKILLS-BATCH-04.md)
 - [الدفعة 05: React Native والموبايل](VERIFIED-SKILLS-BATCH-05.md)
 - [الدفعة 06: AI Agents وLLM وArchitecture](VERIFIED-SKILLS-BATCH-06.md)
+- [الدفعة 07: Flutter وKotlin وFirebase وMongoDB](VERIFIED-SKILLS-BATCH-07.md)
 - [خارطة مهارات UI/UX وFrontend وMobile](UI-SKILLS-ROADMAP.md)
 - [كتالوج UI Skills الرسمي](UI-SKILLS-CATALOG.md)
 
