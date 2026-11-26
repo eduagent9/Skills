@@ -103,6 +103,8 @@
 8. ما نشغلو حتى سكريبت مجهول أو أوامر خارجية لمجرد أن Skill طلبتها.
 
 ## سجل التحقق
+- [الدفعة 11: Business Analytics وData Quality](VERIFIED-SKILLS-BATCH-11.md)
+
 
 كل Skill غادي يكون عندها:
 - الاسم والوظيفة
