@@ -67,6 +67,18 @@
 
 الأوامر التالية من صفحات المهارات الرسمية؛ لا تنفذها الآن. سنجمع المهارات بعد إنهاء الانتقاء، ونحذف التكرار قبل إعداد سكريبت Termux.
 
+### الواجهة والتصميم
+
+```bash
+npx skills add https://github.com/ibelick/ui-skills --skill ui-skills-root --global
+npx skills add https://github.com/anthropics/skills --skill frontend-design --global
+npx skills add https://github.com/jakubkrehel/skills --skill better-ui --global
+npx skills add https://github.com/jakubkrehel/skills --skill better-accessibility --global
+npx skills add https://github.com/jakubkrehel/skills --skill better-motion --global
+npx skills add https://github.com/wshobson/agents --skill interaction-design --global
+npx skills add https://github.com/ibelick/ui-skills --skill improve-ui --global
+```
+
 ### Android وMobile
 
 ```bash
