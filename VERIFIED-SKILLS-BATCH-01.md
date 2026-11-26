@@ -49,9 +49,9 @@ npx skills add https://github.com/cloudflare/skills --skill cloudflare --skill a
 
 ## 3. Firebase — Google Backend Platform
 
-**المصدر الرسمي:** https://github.com/firebase/skills
+**المصدر الرسمي canonical:** https://github.com/firebase/agent-skills (الرابط المختصر `https://github.com/firebase/skills` كيعيد التوجيه للمستودع canonical).
 
-**النطاق:** Skills خاصة بتطوير التطبيقات باستعمال Firebase وخدماته. صفحة المصدر كتقدم التثبيت عبر Skills CLI، لكن أسماء كل المهارات الفرعية خاصها جرد مستقل قبل اختيارها بالاسم.
+**النطاق:** Skills خاصة بتطوير التطبيقات باستعمال Firebase وخدماته. README الرسمي كيأكد صيغة Agent Skills وطرق التثبيت عبر Skills CLI وGemini extension وClaude/Codex plugins. أسماء المهارات الفرعية خاصها جرد مستقل قبل اختيارها بالاسم.
 
 **أمر التثبيت العالمي للمستودع:**
 ```bash
