@@ -91,3 +91,10 @@ Skills هي تعليمات وملفات معرفة، ماشي بيئة تطوي�
 - Gemini CLI Skills discovery: https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/skills.md
 
 **الحالة:** دليل تحضيري فقط. لا توجد عملية تثبيت نفذت على الهاتف.
+
+## سكريبت التثبيت
+
+السكريبت الجاهز بعد اختيار Coding Agent:
+https://github.com/eduagent9/Skills/blob/main/install-all-skills-termux.sh
+
+شغله من مجلد المستودع عبر `bash install-all-skills-termux.sh` بعد مراجعة لائحة التثبيت. لا تشغله قبل تثبيت Runtime متوافق أو اختيار Universal path.
