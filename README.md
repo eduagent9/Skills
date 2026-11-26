@@ -11,6 +11,7 @@
 - [الدفعة 03: قواعد البيانات وMCP](VERIFIED-SKILLS-BATCH-03.md)
 - [الدفعة 04: Python وDocker والأمن](VERIFIED-SKILLS-BATCH-04.md)
 - [الدفعة 05: React Native والموبايل](VERIFIED-SKILLS-BATCH-05.md)
+- [الدفعة 06: AI Agents وLLM وArchitecture](VERIFIED-SKILLS-BATCH-06.md)
 - [خارطة مهارات UI/UX وFrontend وMobile](UI-SKILLS-ROADMAP.md)
 - [كتالوج UI Skills الرسمي](UI-SKILLS-CATALOG.md)
 
