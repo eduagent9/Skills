@@ -41,17 +41,26 @@ npx skills add flutter/agent-plugins --skill flutter-build-responsive-layout --s
 
 المستودع الرسمي من Kotlin كيتبع Agent Skills standard وكيأكد دعم `npx skills add`.
 
-**Skill name موثق في README كمثال:**
-- `kotlin-tooling-agp9-migration` — ترقية Android Gradle Plugin 9 tooling.
+**Skills اللي تحققنا من أسماء ملفاتها:**
+- `kotlin-tooling-kotlin-toolchain` — إعداد واستعمال Kotlin Toolchain.
+- `kotlin-backend-jpa-entity-mapping` — Kotlin وSpring Data JPA/Hibernate.
+- `kotlin-tooling-java-to-kotlin` — تحويل Java إلى Kotlin.
+- `kotlin-tooling-agp9-migration` — ترقية Android Gradle Plugin 9.
+- `kotlin-tooling-gradle-to-kotlin-toolchain-plugin` — تحويل Gradle plugin إلى Kotlin Toolchain plugin.
+- `kotlin-tooling-native-build-performance` — تحسين Kotlin/Native compilation.
+- `kotlin-tooling-kotlin-toolchain-plugin-authoring` — تطوير Kotlin Toolchain plugins.
+- `kotlin-tooling-gradle-to-kotlin-toolchain-project` — تحويل مشروع Gradle كامل.
+- `kotlin-tooling-cocoapods-spm-migration` — ترحيل KMP من CocoaPods إلى Swift Package Manager.
+- `kotlin-tooling-immutable-collections-0-5-x-migration` — ترقية kotlinx immutable collections.
 
-**أمر التثبيت العالمي المرشح:**
+**أمر التثبيت العالمي للمهارات الأقرب لتطوير Android/Kotlin:**
 ```bash
-npx skills add Kotlin/kotlin-agent-skills --global --yes
+npx skills add Kotlin/kotlin-agent-skills --skill kotlin-tooling-kotlin-toolchain --skill kotlin-tooling-agp9-migration --skill kotlin-tooling-java-to-kotlin --skill kotlin-backend-jpa-entity-mapping --global --yes
 ```
 
-**الحالة:** `verified-repository-install-needs-list-enumeration`
+**الحالة:** `verified-source-and-10-skill-slugs`
 
-المستودع ما كيعرضش لائحة كاملة بأسماء المهارات في README اللي تم فحصه؛ لذلك نخلي التثبيت الكامل تفاعلي/مراجَع حتى نستخرج جميع أسماء المجلدات ونتحقق من كل SKILL.md. لا نعتبر هذا الأمر جاهزاً للسكريبت النهائي قبل هاد الخطوة.
+المهارات المتخصصة في Kotlin/Native وKMP وGradle plugin authoring تبقى اختيارية، وما نثبتوهاش إلا إذا كان المشروع كيستعمل هاد التقنيات.
 
 ## 3. Firebase — Official Firebase Agent Skills
 
