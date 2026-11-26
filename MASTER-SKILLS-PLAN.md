@@ -38,7 +38,7 @@
 هاد المستودعات مصادر مرشحة للفحص، وماشي تأكيد أن كل Skill فيها مناسبة أو قابلة للتثبيت العالمي. خاصنا نراجع كل Skill بوحدها.
 
 ### مصادر عامة ورسمية
-- OpenAI: https://github.com/openai/skills
+- OpenAI: https://github.com/openai/skills — المستودع القديم معلن Deprecated؛ لا نعتمده للتثبيت الجديد.
 - Anthropic: https://github.com/anthropics/skills
 - Google: https://github.com/google/skills
 - GitHub Copilot: https://github.com/github/awesome-copilot
@@ -70,6 +70,10 @@
 - Emil Kowalski: https://github.com/emilkowalski/skills
 - Impeccable: https://github.com/pbakaus/impeccable
 - UI UX Pro Max: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+
+## دفعات تم تدقيقها
+
+- [الدفعة 01: Skills رسمية لمنصات Supabase وCloudflare وFirebase وNeon وAndroid](VERIFIED-SKILLS-BATCH-01.md)
 
 ## شروط قبول أي Skill
 
