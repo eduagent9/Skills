@@ -136,6 +136,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill u
 الموقع الرسمي يضم كتالوجاً فيه 844 مهارة في التصميم والواجهات والـFrontend والأنيميشن وإمكانية الوصول والأداء وغيرها.
 
 - [تفاصيل الكتالوج وطريقة استعماله](UI-SKILLS-CATALOG.md)
+- [خارطة المهارات المنتقاة حسب الأولوية](UI-SKILLS-ROADMAP.md)
 - [تصفح المهارات على الموقع الرسمي](https://www.ui-skills.com/skills)
 - [Registry الرسمي الكامل](https://www.ui-skills.com/skills/registry.txt)
 
