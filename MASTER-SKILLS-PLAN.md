@@ -116,6 +116,7 @@
 
 ## خطة Termux النهائية
 - [لائحة التثبيت النهائية — 131 Skill من 14 مصدر](INSTALL-MANIFEST.md)
+- [سكريبت التثبيت الشامل لـTermux](install-all-skills-termux.sh)
 
 - [دليل تجهيز Termux وشروط التثبيت الآمن](TERMUX-SETUP-AND-SAFETY.md)
 
