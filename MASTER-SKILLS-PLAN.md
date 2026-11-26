@@ -82,6 +82,7 @@
 - [الدفعة 06: AI Agents وLLM وArchitecture وDevOps](VERIFIED-SKILLS-BATCH-06.md)
 - [الدفعة 07: Flutter وKotlin وFirebase وMongoDB](VERIFIED-SKILLS-BATCH-07.md)
 - [الدفعة 08: Documents وReact وWeb Testing](VERIFIED-SKILLS-BATCH-08.md)
+- [الدفعة 09: Observability وAI Media](VERIFIED-SKILLS-BATCH-09.md)
 
 ## شروط قبول أي Skill
 
