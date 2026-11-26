@@ -129,3 +129,13 @@ npx skills add https://github.com/Dammyjay93/interface-design --skill interface-
 ```bash
 npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max --global
 ```
+
+
+## كتالوج UI Skills الكامل
+
+الموقع الرسمي يضم كتالوجاً فيه 844 مهارة في التصميم والواجهات والـFrontend والأنيميشن وإمكانية الوصول والأداء وغيرها.
+
+- [تفاصيل الكتالوج وطريقة استعماله](UI-SKILLS-CATALOG.md)
+- [تصفح المهارات على الموقع الرسمي](https://www.ui-skills.com/skills)
+- [Registry الرسمي الكامل](https://www.ui-skills.com/skills/registry.txt)
+
