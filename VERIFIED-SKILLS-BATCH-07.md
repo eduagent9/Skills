@@ -16,10 +16,9 @@
 - `flutter-implement-json-serialization` — JSON models.
 - `flutter-add-widget-test` — widget tests.
 - `flutter-add-integration-test` — integration tests.
-- `flutter-managing-state` — إدارة state.
-- `flutter-localizing-apps` — localization.
-- `flutter-working-with-databases` — قواعد البيانات.
-- `flutter-improving-accessibility` — accessibility.
+- `flutter-setup-localization` — إعداد localization.
+- `flutter-use-http-package` — HTTP networking.
+- `flutter-add-widget-preview` — widget previews.
 - `dart-run-static-analysis` — static analysis.
 - `dart-add-unit-test` — unit tests.
 - `dart-fix-runtime-errors` — runtime debugging.
@@ -28,7 +27,7 @@
 
 **أمر التثبيت العالمي المرشح:**
 ```bash
-npx skills add flutter/agent-plugins --skill flutter-build-responsive-layout --skill flutter-fix-layout-issues --skill flutter-apply-architecture-best-practices --skill flutter-setup-declarative-routing --skill flutter-implement-json-serialization --skill flutter-add-widget-test --skill flutter-add-integration-test --skill flutter-managing-state --skill flutter-localizing-apps --skill flutter-working-with-databases --skill flutter-improving-accessibility --skill dart-run-static-analysis --skill dart-add-unit-test --skill dart-fix-runtime-errors --skill dart-resolve-package-conflicts --skill dart-generate-test-mocks --global --yes
+npx skills add flutter/agent-plugins --skill flutter-build-responsive-layout --skill flutter-fix-layout-issues --skill flutter-apply-architecture-best-practices --skill flutter-setup-declarative-routing --skill flutter-implement-json-serialization --skill flutter-add-widget-test --skill flutter-add-integration-test --skill flutter-setup-localization --skill flutter-use-http-package --skill flutter-add-widget-preview --skill dart-run-static-analysis --skill dart-add-unit-test --skill dart-fix-runtime-errors --skill dart-resolve-package-conflicts --skill dart-generate-test-mocks --global --yes
 ```
 
 **الحالة:** `verified-official-repo-and-skill-files`
