@@ -145,4 +145,5 @@ say "To check updates later: npx skills check"
 say "To update global Skills later: npx skills update -g"
 say "No Skill scripts or MCP servers were executed by this installer."
 
+if (( FAILED > 0 )); then exit 1; fi
 exit 0
