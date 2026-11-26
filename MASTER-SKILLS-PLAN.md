@@ -40,7 +40,8 @@
 ### مصادر عامة ورسمية
 - OpenAI: https://github.com/openai/skills — المستودع القديم معلن Deprecated؛ لا نعتمده للتثبيت الجديد.
 - Anthropic: https://github.com/anthropics/skills
-- Google: https://github.com/google/skills
+- Google Gemini CLI Skills runtime docs: https://github.com/google-gemini/gemini-cli (وثائق Runtime، ليست حزمة Skills عامة).
+- Google Gemini Skills plugin: https://github.com/google-gemini/gemini-skills (غير رسمي ومخصص لخدمات Gemini؛ راجع طريقة التثبيت الخاصة بالـRuntime).
 - GitHub Copilot: https://github.com/github/awesome-copilot
 - Vercel: https://github.com/vercel-labs/agent-skills
 - Vercel Skills CLI: https://github.com/vercel-labs/skills
@@ -49,10 +50,14 @@
 - Android: https://github.com/android/skills
 - Android/Google developer skills: https://github.com/google/skills
 - React Native / Callstack: https://github.com/callstackincubator/agent-skills
-- Firebase: https://github.com/firebase/agent-skills
+- Firebase: https://github.com/firebase/agent-skills (الرابط المختصر `firebase/skills` يعيد التوجيه إلى هذا المستودع).
 - Supabase: https://github.com/supabase/agent-skills
 - Neon: https://github.com/neondatabase/agent-skills
 - MongoDB: https://github.com/mongodb/agent-skills
+- Flutter: https://github.com/flutter/agent-plugins
+- Kotlin: https://github.com/Kotlin/kotlin-agent-skills
+- Grafana: https://github.com/grafana/skills
+- NVIDIA: https://github.com/NVIDIA/skills
 - Cloudflare: https://github.com/cloudflare/skills
 - Vercel: https://github.com/vercel-labs/agent-skills
 
