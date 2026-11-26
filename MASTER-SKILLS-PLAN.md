@@ -79,6 +79,7 @@
 - [الدفعة 03: قواعد البيانات وORM وMCP وحدود التوافق](VERIFIED-SKILLS-BATCH-03.md)
 - [الدفعة 04: Python وDocker وأمن التطبيقات](VERIFIED-SKILLS-BATCH-04.md)
 - [الدفعة 05: React Native واختبارات الموبايل](VERIFIED-SKILLS-BATCH-05.md)
+- [الدفعة 06: AI Agents وLLM وArchitecture وDevOps](VERIFIED-SKILLS-BATCH-06.md)
 
 ## شروط قبول أي Skill
 
