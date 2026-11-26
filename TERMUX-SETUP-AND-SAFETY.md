@@ -34,6 +34,8 @@ pkg install nodejs npm git -y
 
 إلى كان عندك إصدار Node أقدم، ما تكملش التثبيت حتى تحدّثه.
 
+ملاحظة: مستودع Termux الحالي كيعرض Node.js 26.13.1، وهو فوق الحد المطلوب 22.20.0. كما أن npm وnpx كيتثبتو بشكل منفصل في إصدارات Termux الحديثة؛ لذلك الأمر أعلاه كيطلب `nodejs npm git` معاً. استعمل نسخة Termux حديثة من F-Droid أو GitHub؛ نسخ Play Store القديمة غير مدعومة.
+
 ## 3. فحص Skills CLI بلا تثبيت Skills
 
 ```bash
@@ -98,3 +100,15 @@ Skills هي تعليمات وملفات معرفة، ماشي بيئة تطوي�
 https://github.com/eduagent9/Skills/blob/main/install-all-skills-termux.sh
 
 شغله من مجلد المستودع عبر `bash install-all-skills-termux.sh` بعد مراجعة لائحة التثبيت. لا تشغله قبل تثبيت Runtime متوافق أو اختيار Universal path.
+
+## 8. تشغيل الحزمة بعد مراجعتها
+
+```bash
+git clone https://github.com/eduagent9/Skills.git
+cd Skills
+bash install-all-skills-termux.sh
+```
+
+السكريبت كيتحقق من Node.js، وكيطلب منك اختيار Coding Agent target، وكيطلب موافقة قبل بدء التثبيت. إذا ما كانش الـAgent مركب، تقدر توقف أو تكمل بتخزين Skills في مساره العالمي، لكنها ما غاديش تستعمل حتى تثبت ذلك الـAgent.
+
+**مهم:** ChatGPT Android ما كيقراش ملفات Termux تلقائياً؛ تثبيت Skills هنا موجه لـCoding Agents اللي كيدعمو Agent Skills. ماشي تثبيت مباشر داخل تطبيق ChatGPT.
