@@ -74,6 +74,7 @@
 ## دفعات تم تدقيقها
 
 - [الدفعة 01: Skills رسمية لمنصات Supabase وCloudflare وFirebase وNeon وAndroid](VERIFIED-SKILLS-BATCH-01.md)
+- [الدفعة 02: هندسة البرمجيات والاختبارات وأتمتة المتصفح](VERIFIED-SKILLS-BATCH-02.md)
 
 ## شروط قبول أي Skill
 
