@@ -15,7 +15,7 @@
 
 ### 1. Addy Osmani — Software Engineering (19)
 ```bash
-npx skills add addyosmani/agent-skills --skill spec-driven-development --skill planning-and-task-breakdown --skill incremental-implementation --skill source-driven-development --skill frontend-ui-engineering --skill api-and-interface-design --skill test-driven-development --skill browser-testing-with-devtools --skill debugging-and-error-recovery --skill code-review-and-quality --skill code-simplification --skill security-and-hardening --skill performance-optimization --skill accessibility-engineering --skill git-workflow-and-versioning --skill ci-cd-and-automation --skill documentation-and-adrs --skill observability-and-instrumentation --skill shipping-and-launch
+npx skills add addyosmani/agent-skills --skill spec-driven-development --skill planning-and-task-breakdown --skill incremental-implementation --skill source-driven-development --skill frontend-ui-engineering --skill api-and-interface-design --skill doubt-driven-development --skill browser-testing-with-devtools --skill debugging-and-error-recovery --skill code-review-and-quality --skill code-simplification --skill security-and-hardening --skill performance-optimization --skill accessibility-engineering --skill git-workflow-and-versioning --skill ci-cd-and-automation --skill documentation-and-adrs --skill observability-and-instrumentation --skill shipping-and-launch
 ```
 
 ### 2. Supabase (2)
