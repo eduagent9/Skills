@@ -74,3 +74,58 @@ npx skills list --global
 - الخيار `--global` كيخلي المهارات متاحة على مستوى المستخدم بدل مشروع واحد.
 - هذا المستودع فهرس وتعليمات فقط؛ ملفات المهارات تبقى في مستودعات أصحابها الأصليين.
 - راجع ترخيص كل مصدر قبل إعادة توزيع ملفاته أو نسخها.
+
+
+## دفعة المهارات الثانية
+
+تمت مراجعة المستودعات ومسارات ملفات المهارات. ملاحظة: صححنا اسمين في أمر التثبيت حتى يطابقا المسار الفعلي/المستودع الحالي.
+
+### Frontend UI Engineering
+المصدر: https://github.com/addyosmani/agent-skills
+```bash
+npx skills add https://github.com/addyosmani/agent-skills --skill frontend-ui-engineering --global
+```
+
+### Interaction Design
+المصدر: https://github.com/wshobson/agents
+```bash
+npx skills add https://github.com/wshobson/agents --skill interaction-design --global
+```
+
+### Taste Skill (المسمّاة في بعض الفهارس GPT Taste)
+المصدر: https://github.com/Leonxlnx/taste-skill
+المجلد الفعلي داخل المستودع هو `skills/taste-skill`، لذلك أمر التثبيت المطابق للمجلد:
+```bash
+npx skills add https://github.com/Leonxlnx/taste-skill --skill taste-skill --global
+```
+
+### Bencium Innovative UX Designer
+المصدر: https://github.com/bencium/bencium-marketplace
+```bash
+npx skills add https://github.com/bencium/bencium-marketplace --skill bencium-innovative-ux-designer --global
+```
+
+### Impeccable
+المصدر: https://github.com/pbakaus/impeccable
+```bash
+npx skills add https://github.com/pbakaus/impeccable --skill impeccable --global
+```
+
+### 12 Principles of Animation
+المصدر الحالي: https://github.com/raphaelsalaja/skills
+ملاحظة: رابط `raphaelsalaja/skill` القديم كيتحوّل للمستودع الجديد `raphaelsalaja/skills`.
+```bash
+npx skills add https://github.com/raphaelsalaja/skills --skill 12-principles-of-animation --global
+```
+
+### Interface Design
+المصدر: https://github.com/Dammyjay93/interface-design
+```bash
+npx skills add https://github.com/Dammyjay93/interface-design --skill interface-design --global
+```
+
+### UI UX Pro Max
+المصدر: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+```bash
+npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max --global
+```
