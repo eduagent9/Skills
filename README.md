@@ -8,6 +8,8 @@
 - [الدفعة 01: مهارات المنصات](VERIFIED-SKILLS-BATCH-01.md)
 - [الدفعة 02: الهندسة والاختبارات](VERIFIED-SKILLS-BATCH-02.md)
 - [الدفعة 03: قواعد البيانات وMCP](VERIFIED-SKILLS-BATCH-03.md)
+- [الدفعة 04: Python وDocker والأمن](VERIFIED-SKILLS-BATCH-04.md)
+- [الدفعة 05: React Native والموبايل](VERIFIED-SKILLS-BATCH-05.md)
 - [خارطة مهارات UI/UX وFrontend وMobile](UI-SKILLS-ROADMAP.md)
 - [كتالوج UI Skills الرسمي](UI-SKILLS-CATALOG.md)
 
