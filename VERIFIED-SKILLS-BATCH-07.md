@@ -58,16 +58,30 @@ npx skills add Kotlin/kotlin-agent-skills --global --yes
 **المصدر canonical:** https://github.com/firebase/agent-skills  
 **رابط مختصر موثق كيعيد التوجيه للمصدر:** https://github.com/firebase/skills
 
-README الرسمي كيعطي:
+أسماء Skills اللي تم التحقق منها مباشرة في ملفات `SKILL.md`:
+- `firebase-basics` — مدخل Firebase.
+- `firebase-firestore` — Firestore.
+- `firebase-analytics` — Analytics.
+- `firebase-crashlytics` — Crashlytics.
+- `firebase-auth-basics` — Authentication.
+- `firebase-hosting-basics` — Hosting.
+- `firebase-ai-logic-basics` — AI Logic.
+- `firebase-app-hosting-basics` — App Hosting.
+- `firebase-data-connect-basics` — Data Connect.
+- `firebase-remote-config-basics` — Remote Config.
+- `firebase-security-rules-auditor` — تدقيق Security Rules.
+- `firestore-rules-creation` — إنشاء Firestore rules.
+- `extension-to-functions-codebase` — Firebase Extensions وFunctions.
+- `xcode-project-setup` — إعداد Xcode (خاص بـmacOS، لا يدخل في Termux).
+
+**أمر التثبيت العالمي للمهارات المناسبة:**
 ```bash
-npx skills add firebase/skills
+npx skills add firebase/skills --skill firebase-basics --skill firebase-firestore --skill firebase-analytics --skill firebase-crashlytics --skill firebase-auth-basics --skill firebase-hosting-basics --skill firebase-ai-logic-basics --skill firebase-app-hosting-basics --skill firebase-data-connect-basics --skill firebase-remote-config-basics --skill firebase-security-rules-auditor --skill firestore-rules-creation --skill extension-to-functions-codebase --global --yes
 ```
 
-ويوثق كذلك Gemini CLI extension وClaude/Codex plugins.
+**الحالة:** `verified-official-source-skill-names-install-command`
 
-**الحالة:** `verified-official-source-and-install-command`
-
-مازال خاصنا استخراج أسماء كل Skill وفحص scripts والـMCP config قبل تثبيت الحزمة الكاملة. الحزمة تتضمن ملفات `.mcp.json` و`gemini-extension.json`؛ تثبيت Skills CLI ماشي هو إعداد MCP أو Firebase credentials.
+الحزمة تتضمن ملفات `.mcp.json` و`gemini-extension.json`؛ تثبيت Skills CLI ماشي هو إعداد MCP أو Firebase credentials. استبعدنا `xcode-project-setup` من Termux لأنه يحتاج Xcode/macOS.
 
 ## 4. MongoDB — Official Database Skills
 
