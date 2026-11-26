@@ -7,6 +7,7 @@
 - [الخطة الرئيسية لجمع Skills من جميع التخصصات](MASTER-SKILLS-PLAN.md)
 - [دليل تجهيز Termux وشروط التثبيت الآمن](TERMUX-SETUP-AND-SAFETY.md)
 - [أدوات فحص Skills والتحقق الأمني](SKILLS-SECURITY-AUDIT-TOOLS.md)
+- [الدفعة 11: Business Analytics وData Quality](VERIFIED-SKILLS-BATCH-11.md)
 - [الدفعة 01: مهارات المنصات](VERIFIED-SKILLS-BATCH-01.md)
 - [الدفعة 02: الهندسة والاختبارات](VERIFIED-SKILLS-BATCH-02.md)
 - [الدفعة 03: قواعد البيانات وMCP](VERIFIED-SKILLS-BATCH-03.md)
