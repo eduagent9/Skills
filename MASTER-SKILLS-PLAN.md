@@ -90,6 +90,8 @@
 - [الدفعة 09: Observability وAI Media](VERIFIED-SKILLS-BATCH-09.md)
 
 ## شروط قبول أي Skill
+- [أدوات فحص Skills والتحقق الأمني](SKILLS-SECURITY-AUDIT-TOOLS.md)
+
 
 1. نحدد الاسم الرسمي والـslug الصحيح.
 2. نتحقق من المستودع الأصلي ووجود ملف `SKILL.md` الفعلي.
